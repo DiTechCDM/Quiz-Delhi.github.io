@@ -577,6 +577,30 @@ ul {
     top: -150px;
 }
 
+@media screen and (min-width: 1706px) {
+    #boy-img {
+        top: -170px;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    #boy-img {
+        top: -145px;
+    }
+}
+
+@media screen and (max-width: 1368px) {
+    #boy-img {
+        top: -138px;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    #boy-img {
+        top: -127px;
+    }
+}
+
 li {
     position: relative;
     padding: 10px;
